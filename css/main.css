@@ -1,0 +1,149 @@
+body {
+	margin: 0px;
+}
+div.header {
+	text-align: center;
+}
+div.menu {
+	text-align: center;
+}
+div.promo {
+	text-align: center;
+}
+
+div.lang {
+	text-align: right;
+	font-family: sans-serif;
+}
+
+div.lang a {
+	color: #000000;
+}
+
+li {
+	width: 587px;
+	font-family: sans-serif;
+	text-align: justify;
+	list-style: circle;
+	list-style-position:inside;
+	margin-top:5px;
+	margin-bottom:5px;
+	vertical-align:top;
+	font-size: 12px;
+}
+
+ul {
+	margin:0px;
+	padding:0px;
+	font-size: 12px;
+}
+
+p {
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 587px;
+	font-family : sans-serif;
+	text-align: justify;
+	font-size: 12px;
+}
+
+p.note {
+	width: 587px;
+	font-family : sans-serif;
+	text-align: justify;
+	font-style: italic;
+	font-size: 12px;
+}
+
+h1 {
+	width: 587px;
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+h2 {
+	width: 587px;
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+h3 {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 587px;
+	text-align: center;
+}
+img {
+	margin: 5px;
+}
+img.menu {
+	margin: 0px;
+}
+
+img.lmenu {
+	margin: 0px;
+	padding: 0px;
+}
+
+p.update {
+	text-align: right;
+	font-style: italic;
+	color: Gray;
+	font-size: 12px;
+}
+p.form {
+	text-align: left;
+	font-size: 12px;
+}
+
+textarea {
+	border: 1px outset Black;
+}
+
+input {
+	border: thin outset Black;
+}
+
+table.cnt {
+/*	padding-left: 250px; */
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+table.timetable {
+	width:700px;
+}
+th.date {
+	width:100px;
+}
+th.time {
+	width:100px;
+}
+th {
+	background-color:#B87A29;
+}
+
+span.author {
+    font:normal 12px Arial;
+    color:black;
+}
+
+ol.abs_list {
+    list-style-position:outside:
+}
+
+ol.abs_list li {
+    list-style-position:outside;
+    width:550px;
+}
+
+p.ad, p.ad a {
+	font-size:6px;
+	color:gray !important;
+	font-style:italic;
+	text-decoration:none
+}
